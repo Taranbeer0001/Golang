@@ -35,4 +35,4 @@ func main() {
 	fmt.Println(a, "%", b, "=", c)
 }
 
-//calculator
+//Calculator

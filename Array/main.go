@@ -13,7 +13,9 @@ func main() {
 	ar := [5]int{2, 4, 6, 8, 10}
 
 	fmt.Println(arr)
+	fmt.Println()
 	fmt.Printf("%T", (arr))
+	fmt.Println()
 	fmt.Println(ar)
 
 }
